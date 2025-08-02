@@ -1,6 +1,6 @@
 body {
-    background-color: rgba(128, 0, 111, 0.537);
-    color: black;
+    background-color: rgba(38, 0, 128, 0.537);
+    color: antiquewhite;
     font-family: arial;
 }
 img {
@@ -14,11 +14,5 @@ img {
     margin-right: 40px;
 }
 .link {
-    color: rgb(128, 0, 0);
-}
-.p1 {
-    padding: px;
-}
-.hi {
-    padding: px;
+    color: rgb(144, 0, 255);
 }
