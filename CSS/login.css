@@ -7,8 +7,8 @@ body {
 .email {
   background-color: white;
   border: none;
-   height: 50px;
-   width: 500px;
+   height: 30px;
+   width: 300px;
    padding-left: 10px;
    border-radius: 6px;
    margin-bottom: 20px;
@@ -19,8 +19,8 @@ body {
 .password {
     background-color: white;
     border: none;
-   height: 50px;
-   width: 500px;
+   height: 30px;
+   width: 300px;
    padding-left: 10px;
    border-radius: 6px;
    margin-bottom: 25px;
@@ -31,8 +31,8 @@ body {
     background-color: rgba(38, 0, 128, 0.537);
     color: antiquewhite;
     border: none;
-   height: 50px;
-   width: 500px;
+   height: 30px;
+   width: 300px;
    padding-left: 10px;
     margin: 15px auto;
    border-radius: 6px; 
