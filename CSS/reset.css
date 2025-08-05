@@ -1,0 +1,31 @@
+body {
+    background-color: antiquewhite;
+    font-family: arial;
+    text-align: center;
+   padding: 100px;
+}
+.email {
+  background-color: white;
+  border: none;
+   height: 30px;
+   width: 300px;
+   padding-left: 10px;
+   border-radius: 6px;
+   margin-bottom: 20px;
+    margin: 5px auto;
+   display: block;
+}
+.log {
+    background-color: rgba(38, 0, 128, 0.537);
+    color: antiquewhite;
+    border: none;
+   height: 30px;
+   width: 300px;
+   padding-left: 10px;
+    margin: 5px auto;
+   border-radius: 6px; 
+   text-decoration: none; 
+}
+.cancel {
+    text-decoration: none;
+}
