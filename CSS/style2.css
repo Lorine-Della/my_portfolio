@@ -1,0 +1,9 @@
+body {
+    background-color: rgba(38, 0, 128, 0.537);
+    font-family: arial;
+    color: white;
+    text-align: center;
+}
+ul li  {
+    list-style: none;
+}
